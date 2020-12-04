@@ -1,4 +1,4 @@
-package com.example.pprecuplavo;
+package com.example.recuprimerparciallabov;
 
 import org.junit.Test;
 
